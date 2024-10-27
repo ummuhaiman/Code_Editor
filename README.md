@@ -26,7 +26,7 @@ The Code Editor simulates a basic web development environment where users can wr
 
     bash
 
-    git clone https://github.com/yourusername/code-editor
+    git clone https://github.com/ummuhaiman/code-editor
     cd code-editor
 
     Open the project:
