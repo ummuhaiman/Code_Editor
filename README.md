@@ -4,10 +4,10 @@ This project is a Code Editor built with HTML, CSS, and JavaScript. It provides 
 
 # Table of Contents
 
-    Overview
-    Features
-    Setup and Installation
-    Usage
+-Overview
+-Features
+-Setup and Installation
+-Usage
     
 
 # Overview
