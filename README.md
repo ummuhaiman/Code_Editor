@@ -15,11 +15,10 @@ This project is a Code Editor built with HTML, CSS, and JavaScript. It provides 
 The Code Editor simulates a basic web development environment where users can write and test code snippets in HTML, CSS, and JavaScript. This project is intended as a lightweight, front-end tool for learning and experimenting with code in real-time.
 
 # Features
-
--HTML, CSS, and JavaScript Editors: Separate sections for HTML, CSS, and JavaScript code input.
--Live Preview: Displays the output of the written code in real-time.
--Responsive Layout: Simple and responsive layout that works well on various screen sizes.
--Clear and Run Buttons: Options to clear the code editors and refresh the preview output.
+- HTML, CSS, and JavaScript Editors: Separate sections for HTML, CSS, and JavaScript code input.
+- Live Preview: Displays the output of the written code in real-time.
+- Responsive Layout: Simple and responsive layout that works well on various screen sizes.
+- Clear and Run Buttons: Options to clear the code editors and refresh the preview output.
 
 # Setup and Installation
 
@@ -35,6 +34,6 @@ The Code Editor simulates a basic web development environment where users can wr
 
 # Usage
 
--Enter Code:Write HTML, CSS, or JavaScript code in the respective editor sections.
--Live Preview:See the preview update automatically as you type.
--Clear/Reset:Use the Clear button to reset the editor content.
+- Enter Code:Write HTML, CSS, or JavaScript code in the respective editor sections.
+- Live Preview:See the preview update automatically as you type.
+- Clear/Reset:Use the Clear button to reset the editor content.
