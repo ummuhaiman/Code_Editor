@@ -2,7 +2,7 @@
 
 This project is a Code Editor built with HTML, CSS, and JavaScript. It provides a simple interface where users can write HTML, CSS, and JavaScript code and preview the output in real-time. This project is great for practicing front-end skills and understanding the basics of live code editing and output rendering.
 
-##Table of Contents
+#Table of Contents
 
 - Overview
 - Features
